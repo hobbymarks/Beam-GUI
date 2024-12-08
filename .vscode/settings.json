@@ -1,0 +1,25 @@
+{
+    "[python]": {
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.codeActionsOnSave": {
+            "source.fixAll": "explicit",
+            "source.organizeImports": "explicit"
+        },
+        "editor.defaultFormatter": "charliermarsh.ruff"
+    },
+    "editor.autoClosingBrackets": "always",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.fontFamily": "Intel One Mono",
+    "editor.fontSize": 16,
+    "editor.matchBrackets": "always",
+    "editor.rulers": [
+        99,
+        102
+    ],
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 99,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontSize": 14,
+    "workbench.tree.indent": 15
+}
