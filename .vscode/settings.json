@@ -2,10 +2,11 @@
     "[python]": {
         "diffEditor.ignoreTrimWhitespace": false,
         "editor.codeActionsOnSave": {
-            "source.fixAll": "explicit",
+            "source.fixAll.ruff": "explicit",
             "source.organizeImports": "explicit"
         },
-        "editor.defaultFormatter": "charliermarsh.ruff"
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.formatOnSave": true
     },
     "editor.autoClosingBrackets": "always",
     "editor.bracketPairColorization.enabled": true,
